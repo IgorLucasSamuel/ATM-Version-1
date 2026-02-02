@@ -1,0 +1,41 @@
+{
+  "1234567890": {
+    "accountNumber": "1234567890",
+    "pin": "1111",
+    "balance": 1000.0,
+    "transactionHistory": [
+      {
+        "type": "Account Created",
+        "amount": 1000.0,
+        "balanceAfter": 1000.0,
+        "timestamp": "2026-02-02T00:51:05.4428005"
+      }
+    ]
+  },
+  "0987654321": {
+    "accountNumber": "0987654321",
+    "pin": "2222",
+    "balance": 500.0,
+    "transactionHistory": [
+      {
+        "type": "Account Created",
+        "amount": 500.0,
+        "balanceAfter": 500.0,
+        "timestamp": "2026-02-02T00:51:05.4457979"
+      }
+    ]
+  },
+  "1111222233": {
+    "accountNumber": "1111222233",
+    "pin": "3333",
+    "balance": 2500.0,
+    "transactionHistory": [
+      {
+        "type": "Account Created",
+        "amount": 2500.0,
+        "balanceAfter": 2500.0,
+        "timestamp": "2026-02-02T00:51:05.4457979"
+      }
+    ]
+  }
+}
