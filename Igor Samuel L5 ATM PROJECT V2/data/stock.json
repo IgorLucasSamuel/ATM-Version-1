@@ -1,0 +1,13 @@
+{
+  "inkLevel": 12,
+  "bankNotes": {
+    "TWENTY": 10,
+    "FIVE": 10,
+    "FIFTY": 10,
+    "ONE_HUNDRED": 9,
+    "TEN": 10,
+    "TWO_HUNDRED": 10,
+    "FIVE_HUNDRED": 10
+  },
+  "paperLevel": 12
+}
